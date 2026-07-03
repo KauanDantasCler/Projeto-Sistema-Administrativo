@@ -1,8 +1,8 @@
-# 📊 Sistema Administrativo Fullstack
+# Sistema Administrativo Fullstack
 
 Painel administrativo moderno para gerenciamento de usuários, produtos e promoções, desenvolvido com foco em segurança, escalabilidade e arquitetura limpa.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend
 - **React** (Vite) com **TypeScript**
@@ -22,7 +22,7 @@ Painel administrativo moderno para gerenciamento de usuários, produtos e promo�
 
 ---
 
-## 🛠️ Arquitetura e Funcionalidades Chave
+## Arquitetura e Funcionalidades Chave
 
 - **Controle de Acesso Baseado em Funções (RBAC):** Telas e rotas protegidas por nível de perfil (`ADMIN` vs `FUNCIONARIO`).
 - **Arquitetura em Camadas (Backend):** Separação clara de responsabilidades entre Rotas, Controllers, Services (Regras de negócio) e Middlewares.
@@ -31,7 +31,7 @@ Painel administrativo moderno para gerenciamento de usuários, produtos e promo�
 
 ---
 
-## 📦 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 - Node.js (v18 ou superior)
